@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers to the objections made against the re-establishing of the Edict of Nants. This will be published once every fortnight, for the benefit of all Protestants</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75454</idno>
+            <idno type="STC">Wing A3470A</idno>
+            <idno type="STC">ESTC P483500</idno>
+            <idno type="EEBO-CITATION">99895685</idno>
+            <idno type="PROQUEST">99895685</idno>
+            <idno type="VID">153040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2341:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers to the objections made against the re-establishing of the Edict of Nants. This will be published once every fortnight, for the benefit of all Protestants</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Whitlock, near Stationers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France. --  Edit de Nantes --  Early works to 1800.</term>
+               <term>Protestants --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153040:1" rendition="simple:additions"/>
+            <p>ANSWERS TO THE OBJECTIONS MADE Againſt the Re-eſtabliſhing OF THE EDICT OF NANTS.</p>
+            <p>This will be Publiſh'd once every Fortnight, for the Benefit of all <hi>Proteſtants.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> MDCXCVII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153040:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <dateline>
+                  <hi>Hague,</hi> 
+                  <date>the 1ſt of <hi>July,</hi> 1697.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THERE being no mention made of Eccleſiaſtical Mat<g ref="char:EOLhyphen"/>ters in the Propoſals made by the Emperor's Ambaſſa<g ref="char:EOLhyphen"/>dors at Ryſwick, thoſe of other Roman Catholick Secular Princes, they that are there deputed from Ec<g ref="char:EOLhyphen"/>cleſiaſtical Electors and Princes of that Communion, have thought ſit to put in their Memorials and Remonſtrances concern<g ref="char:EOLhyphen"/>ing their Grievances on that Subject; eſpecially ſeeing that the King of England, and other Proteſtant Princes do demand, That the Edict of Nants might be again made good, and that the French Proteſtant Refugees be reſtored to their entire Priviledges and Eſtates in France. To this the former anſwered, That thoſe Differences would be debated at the End of the Treaty for a General Peace; but the Baron de Lelienroot, the Mediator, re<g ref="char:EOLhyphen"/>ply'd, That it was fit that Eccleſiaſtical Points ſhould be adjuſted, as well as thoſe of Temporal and Politick Concerns. Upon which, ſome of the Party that are againſt the Reſtoring of the ſaid Edict, &amp;c. have ſpread ſome Objections, and Anſwers were made to them, which are herein inſerted; and it being not doubt<g ref="char:EOLhyphen"/>ed, but that Replys will be made on both ſides, we will take care to ſend you whatever comes out on that Subject, which will be Publiſh'd once every Fortnight.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:153040:2"/>
+            <head>ANSWERS TO THE OBJECTIONS MADE Againſt the Re-eſtabliſhing OF THE Edict of NANTS.</head>
+            <div n="1" type="objection">
+               <head>Objection I.</head>
+               <p>
+                  <hi>'TIS the Policy of every King, to ſee that there be but one Religion in his Kingdom.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer</hi> I. Princes who formerly afflicted the Church, which ſerved God uprightly according to his Goſpel, propoſed likewiſe to themſelves to Aboliſh the Diverſity of Religions in their States, but Happineſs never attended that Conduct</p>
+               <p n="2">II. In the States, where all the People hath imbraced the Reformation, good provi<g ref="char:EOLhyphen"/>ſion is made againſt the Eſtabliſhing of the Roman Catholick Religion: but where there is ſome Roman Catholicks already Eſtabliſhed, as in <hi>England, Scotland, Ireland,</hi> and in the United Provinces, they are not moleſted; and 'twas never known that Proteſtant States uſed any Violence to force the Roman Catholicks to imbrace the Reformation, that Conduct being contrary to the Spirit of Chriſtianity: God alone is the Ruler of Conſciences.</p>
+               <p n="3">III. The Wiſeſt, even among the Heathen Emperors, were ſenſible that it was the Intereſt of the State not to trouble Conſciences, and to let all People live in the free ex<g ref="char:EOLhyphen"/>erciſe of their Religion.</p>
+               <pb n="4" facs="tcp:153040:3"/>
+               <p n="4">IV. The Proteſtants of France have Edicts and Treaties granted or confirmed by <hi>Prancie</hi> II, <hi>Charles</hi> IX, <hi>Henry</hi> III; <hi>Henry</hi> IV, <hi>Lewis</hi> XIII, and <hi>Lewis</hi> XIV; the Obſervation of which hath often been ſolemnly Sworn throughout the whole Kingdom; and the ſaid Treaties are Sacred and Inviolable Obligations.</p>
+            </div>
+            <div n="2" type="objection">
+               <head>
+                  <hi>Object. II.</hi> Every King being perſuaded his Religion to be the beſt, he is not to be blamed for enaeavouring as much as poſſible to Induce his Subjects to imbrace it.</head>
+               <p>
+                  <hi>Anſw.</hi> I. He may for that purpoſe uſe Inſtructions, but not Violence.</p>
+               <p n="2">II He ought to allow his Subjects to juſtifie their Doctrine by the Scripture, but that is not ſuffer'd in <hi>France;</hi> even when thoſe are put to Death, who aſſemble to ſerve God according to the Goſpel, Drums are order'd to beat, to the end the Martyrs-may not declare their Innocence and Piety when they are a Dying. This Conduct will always be very much ſuſpected by Perſons who are not prepoſſeſſed with Paſſion.</p>
+               <p n="3">III. 'Tis not enough to ſay, that they had a good Intention: The Egyptians, the Famous <hi>Antioches,</hi> the Jews and the Heathens pretended they had a good Intention when they oppreſſed the People of God, but that did not excuſe them. Jeſus Chriſt himſelf hath foretold, That they who would put to Death the Faithful, ſhould think to do God a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervice, <hi>John</hi> 16.2. nevertheleſs that does neither excuſe them before God nor Men.</p>
+            </div>
+            <div n="3" type="objection">
+               <head>
+                  <hi>Object. III.</hi> The Diverſity of Religions, occaſions Diviſions in a State.</head>
+               <p>
+                  <hi>Anſw.</hi> I. <hi>Mans</hi> was accuſed of cauſing Trouble in the Kingdom of Iſrael: Such like Crimes were imputed to Jeſus Chriſt himſelf, to his Apoſtles, and to the Primitive Chriſtians.</p>
+               <p n="2">II. When the Diverſity of Religions is already eſtabliſhed in a Kingdom, the put<g ref="char:EOLhyphen"/>ting of all in Trouble and Confuſion by forcing Millions of Souls to imbrace a Religion which they believe to be plainly againſt the Word of God, is not the way to ſecure the Publick Tranquility.</p>
+               <p n="3">III. 'Tis not in the power of Men to hinder the Diverſity of Religions: It's God alone that can hinder it by his Grace; but eſpecially, when he is pleaſed to Eſtabliſh his Kingdom of Light and Grace in the World; Men cannot deſtroy his Work, and they that undertakes it, muſt have a care they be not found making War againſt him.</p>
+            </div>
+            <div n="4" type="objection">
+               <head>
+                  <hi>Object. IV.</hi> When Princes in <hi>France</hi> are diſſatisfy'd, they always find a Party ready formed againſt the <hi>French Proteſtants.</hi>
+               </head>
+               <p>
+                  <hi>Anſwer.</hi> When the Duke of <hi>Orleans,</hi> ſuſtained by the Duke of <hi>Montmorenci,</hi> was wil<g ref="char:EOLhyphen"/>ling to Dethrone <hi>Lewis</hi> XIII, the Franch Proteſtants by their Inviolable Fidelity render'd his Deſign abortive. When the Prince of Condé attempted afterwards to take away the Crown from <hi>Lewis</hi> XIV, the Proteſtants of France render'd all his Endeavours in<g ref="char:EOLhyphen"/>effectual, notwithſtanding all the advantageous Promiſes he made them. When the whole Province of Languedock was in a very dangerous Uproar, by reaſon of ſome new Taxes, the Proteſtants have likewiſe put a ſtop to it by their Fidelity: So that it may be ſaid, That of all the Subjects the King of <hi>France</hi> hath, the Proteſtants are the moſt Faithful, and moſt Zealous for his Service.</p>
+            </div>
+            <div n="5" type="objection">
+               <head>
+                  <hi>Object. V.</hi> All the <hi>Proteſtants</hi> of <hi>France,</hi> have imbraced the Roman Catholick Religion.</head>
+               <pb n="5" facs="tcp:153040:3"/>
+               <p>
+                  <hi>Anſwer.</hi> Violence forced from their Mouth, ſome Word contrary to the meaning of their own Heart: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut all the World knows already, That all that People hath long ago renounced the Roman Communion, which they were forced to imbrace; and that they groan continually in the Captivity they are now in, not having the liberty to meet to ſerve God according to his Word. When the Miniſters go to preach in <hi>France,</hi> of an hundred Perſons overcome by the Violence of the Perſecution, there is hardly one to be found that does not repair to the Holy Aſſemblies; of which, the great number of People that have been, and are ſtill from time to time Maſſacred, condemned to be Whipt, to the Galleys, or to Die, is a convincing Teſtimony.</p>
+            </div>
+            <div n="6" type="objection">
+               <head>
+                  <hi>Object. VI.</hi> The Edicts have occaſioned abundance of Law Suits.</head>
+               <p>
+                  <hi>Anſwer.</hi> If the Chambers of the Edict had been preſerved, and any Inclination ſhewn to ſee the Edict of Nants religiouſly obſerved, there would have been no Law Suits on account of Religion; and if there had been any, they might have been repreſs'd by Ju<g ref="char:EOLhyphen"/>ſtice: But when the Clergy ſaw there was a deſign formed to ſubvert and annul the E<g ref="char:EOLhyphen"/>dicts, by making a ſhew of obſerving them, and taking the way of an apparent Juſtice, the Law Suits, Litigious Pleading, Calumnies, Perjuries and Injuſtices filled the whole Kingdom with trouble.</p>
+            </div>
+            <div n="7" type="objection">
+               <head>
+                  <hi>Object VII.</hi> The Edicts were obtained during the Troubles of the Wars.</head>
+               <p>
+                  <hi>Anſw.</hi> I. The Proteſtants were not the cauſe of theſe Troubles, but they who reme<g ref="char:EOLhyphen"/>ved Heaven and Earth to exterminate them with Fire and Sword.</p>
+               <p n="2">II. When there is ſome trouble in a State, if it could not be pacified by Edicts and Treaties, and one could not rely on the obſervation of them, even when they have been ſolemnly ſworn to throughout the whole Kingdom, the evil would be without remedy, and things forced to be carried on to the laſt Extremities.</p>
+               <p n="3">III. When the like Misfortunes happens, the Aggreſſors ought to be ſeverely pu<g ref="char:EOLhyphen"/>niſh'd; but as ſoon as the Troubles are pacified by reſpective Words, Edicts and Trea<g ref="char:EOLhyphen"/>ties, they ought to be faithfully obſerved. A Maxim contrary to this Principle, cannot be but very pernicious to a State.</p>
+               <p n="4">IV. The Gabaonites obtained by Fraud the Treaty granted them by Joſiah; and tho' <hi>Sedacias</hi> King of Juda was forced to treat with <hi>Nebuchadnezzar,</hi> who was an Oppreſſour, yet God puniſh'd in a moſt dreadful manner the Infraction of each of theſe two Trea<g ref="char:EOLhyphen"/>ties. The Edict of <hi>Nants</hi> was given in time of Peace, as appears by Hiſtory, and by the Edict it ſelf. And,
+<list>
+                     <item>1. This Edict was juſt in it ſelf, and neceſſary for the publick Tranquility, and for the good of the State, as the event hath demonſtrated.</item>
+                     <item>2. Since it ſupplied the ſtead of the precedent Edicts, which were grounded on <hi>Trea<g ref="char:EOLhyphen"/>ties ſigned on both ſides,</hi> and ſolemnly Sworn to through the whole Kingdom, it was not to be revok'd.</item>
+                     <item>3. It appears by the Preface of the ſaid Edict, That it was made when the Roman Catholicks and the Proteſtants had conferred and agreed together of the Juſt, Reaſona<g ref="char:EOLhyphen"/>ble and Neceſſary Things for the Publick Good: So that it was a Tranſaction between them, as well as a Solemn Obligation of the Royal Promiſe.</item>
+                     <item>4. In effect in the ſame Preface, <hi>Henry</hi> IV. <hi>promiſes</hi> to ſee it Inviolably obſerved. Theſe are not Terms of Edicts revocable by their Nature.</item>
+                     <item>5. In the 91ſt Article, that Edict is expreſly declared <hi>Perpetual and Irrevocable.</hi>
+                     </item>
+                     <item>6. The Obſervation of the ſaid Edict was ſolemnly Sworn to by all the Bodies Civil and Politick of the Kingdom.</item>
+                     <pb n="6" facs="tcp:153040:4"/>
+                     <item>7. <hi>Lewis</hi> XIII. <hi>confirmed</hi> it afterwards in time of Peace by his Declaration of 1610, and 1614.</item>
+                     <item>8. The ſaid Edict was alſo <hi>confirmed</hi> by the firſt Article of the Treaty of Peace 1626, of which the King of <hi>Great Brittain</hi> was Guarantee with the conſent of <hi>France.</hi>
+                     </item>
+                     <item>9. It was likewiſe <hi>confirmed</hi> in full Peace by <hi>Lewis</hi> XIV. in his Declarations of 1643 and 1652, as a very Recompenſe of the great Services he received from his Proteſtant Subjects when the Crown was in danger, as appears by the laſt of the ſaid two Declara<g ref="char:EOLhyphen"/>tions, which gives an Authentick Teſtimony of their Fidelity.</item>
+                     <item>10. Finally His Moſt Chriſtian Majeſty promiſed the late Elector of <hi>Brandenbourg,</hi> That he would cauſe it to be Inviolably obſerved, as appears by the Letters he wrote on that Subject to His Electoral Highneſs in the Year 1666. If after all theſe ſolemn In<g ref="char:EOLhyphen"/>gagements, the Repoſe of a great Nation was not ſecured, nothing would for the future <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Sure, Sacred and Inviolable.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="8" type="objection">
+               <head>
+                  <hi>Object. VIII.</hi> The Roman Catholicks are excluded from Offices in the Proteſtant States.</head>
+               <p>
+                  <hi>Anſw.</hi> I. If they had Edicts and Treaties, and the ſame were violated, they would have reaſon to complain; but there is no ſuch thing.</p>
+               <p n="2">II. 'Tis very well known how often the Jeſuits have Plotted in <hi>England,</hi> in order to Subvert the State, and to Reign themſelves in it, which they have likewiſe done ſome times in the chief places of <hi>Holland;</hi> and that's the reaſon 'tis not thought fit to put in Offices of State Roman Catholicks, who have ſuch Directors of Conſcience; but the Proteſtants of <hi>France</hi> are always ſatisfied when they are permitted to pray to God; and when the State wants their Aſſiſtance and Fidelity, they never fail of performing their Duty. In a word, their Edicts are Irrevocable, and even neceſſary for the good of the State, as Experience hath always juſtified it.</p>
+            </div>
+            <div n="9" type="objection">
+               <head>
+                  <hi>Object IX.</hi> The Kings of <hi>England,</hi> who endeavoured to Establiſh the Roman Catholick Reli<g ref="char:EOLhyphen"/>gion in that Kingdom, have drawn themſelves into great Misfortunes.</head>
+               <p>
+                  <hi>Anſwer.</hi> If any hath attempted the Subverſion of the Laws of the Kingdom, which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> promiſed to obſerve, and hath not had a happy Succeſs in his Enterprize, he ought to blame none but himſelf.</p>
+               <p>But finally, That's no reaſon why Sacred and Inviolable Edicts ſhould be trampled down, the Obſervation of them being neceſſary in <hi>France</hi> for the Tranquility of a Great People, and even for the good of the State.</p>
+            </div>
+            <div n="10" type="objection">
+               <head>
+                  <hi>Object X.</hi> The Roman Catholicks in <hi>France,</hi> would be diſſati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied if the Proteſtants were <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</head>
+               <p>
+                  <hi>Anſw.</hi> I. 'Tis known on the contrary, That all the Roman Catholick People in the Kingdom owne, that the Evil inflicted to the Proteſtants, hath drawn upon France great Calamities, and that that Perſecution is the Ruine of the Kingdom. 'Tis likewiſe known, That it is the Opinion of all Judicious Perſons in France.</p>
+               <p n="2">II. Let the King, who hath the Authority in hand, order thoſe who ſhall act contrary to the Edicts, to be ſeverely puniſhed as Diſturbers of the Publick I ranquility, and all will be quiet in a very little time.</p>
+               <p n="3">III. But to deliver abſolutely His Moſt Chriſtian Majeſty from the Importunities of the Jeſuits, 'tis important, That the Proteſtant Powers do Intervene in the Re-eſtabliſh<g ref="char:EOLhyphen"/>ment of the French Proteſtants, to the end their Intervention may hereafter ſerve as a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to curb the Malice of that Turbulent ſort of People.</p>
+            </div>
+            <div n="11" type="objection">
+               <pb n="7" facs="tcp:153040:4"/>
+               <head>
+                  <hi>Object. XI.</hi> If <hi>France</hi> ſhould Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtabliſh the French Proteſtants, it would be juſt the Roman Catholicks ſhould enjoy the ſame Advantages in the Protestant Staees.</head>
+               <p>
+                  <hi>Anſw.</hi> I. The Proteſtants are not ſo much to be feared in the Roman Catholick Do<g ref="char:EOLhyphen"/>minions, as the Roman Catholicks are in the States of the Proteſtants. The Faithful<g ref="char:EOLhyphen"/>neſs of the Proteſtants is ſure; whereas the Poyſoning, Aſſaſſinations, Plots and Conſpi<g ref="char:EOLhyphen"/>racies of thoſe that directs the Conſciences of the Roman Catholicks, are known all the World over, and puts the Proteſtant Powers into a juſt miſtruſt of them.</p>
+               <p n="2">II. The Roman Catholicks in <hi>England, Scotland, Ireland,</hi> and in the United Provin<g ref="char:EOLhyphen"/>ces, ſuffer neither Injuſtice, Perſecution, nor Hinderance in the Exerciſe of their Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p n="3">III. If the Proteſtants were reduc'd to meet privately in <hi>France,</hi> the Jeſuits doubtleſs would induce the Rabble to Maſſacre them; it is neceſſary to make it appear, That they are authorized ſo to do, and that there be Chambers of Edict to puniſh the Contraventi<g ref="char:EOLhyphen"/>ons of the Edicts.</p>
+               <p n="4">IV. In a word, The Edicts and Treaties granted to the French Proteſtants, are Ir<g ref="char:EOLhyphen"/>revocable Laws.</p>
+            </div>
+            <div n="12" type="objection">
+               <head>
+                  <hi>Object. XII.</hi> The French King, hath no occaſion for the French Proteſtants Fidelity.</head>
+               <p>
+                  <hi>Anſw.</hi> I. Tho' he ſhould have no occaſion for it, however a Prince ought in juſtice to protect his Subjects, and to procure them a peaceable Enjoyment of their Rights, their Liberties and their Priviledges, eſpecially when the ſaid Liberties and Priviledges tend, as in this caſe, to no other end but to render thoſe, to whom they are granted, equal to their Fellow Citizens, who are not more Faithful than they, and who contri<g ref="char:EOLhyphen"/>bute no more than they do towards the Charges of the State, and the Encouragement of Trade.</p>
+               <p n="2">II. It hath ſufficiently appeared in time of need, that the French Proteſtants Fidelity hath not been uſeleſs to <hi>Henry</hi> IV, <hi>Lewis</hi> XIII, and <hi>Lewis</hi> XIV.</p>
+            </div>
+            <div n="13" type="objection">
+               <head>
+                  <hi>Object. XIII.</hi> The Court of <hi>Rome</hi> would take it ill, to ſee the French Proteſtants Re-eſtabliſhed.</head>
+               <p>
+                  <hi>Anſw.</hi> I. That's no buſineſs of the Court of <hi>Rome.</hi> The Court of <hi>Rome</hi> did not hin<g ref="char:EOLhyphen"/>der the Proteſtants, Lutherans and Reformed from being Re-eſtabliſhed throughout all the Empire, by vertue of the Peace of <hi>Munſter</hi> and <hi>Oſnaburg,</hi> on Foot of the Ancient Treaties. <hi>France</hi> it ſelf did procure this Re-eſtabliſhment, and approved very much the Seculariſation of ſeveral Archbiſhopricks and Biſhopricks, in favour of the Prote<g ref="char:EOLhyphen"/>ſtants: Why then, now the Peace of all <hi>Europe</hi> is in hand, ſhould ſeveral Millions of Innocent People be left in Trouble and Calamity, who hath a long time groaned in <hi>France,</hi> or where ever they are diſperſed, to the prejudice of the moſt ſolemn and moſt ſacred Edicts and Treaties that can be made between Men? Does not the very Intereſt of <hi>France</hi> require that ſo great a number of People be comprehended in the General Peace.</p>
+            </div>
+            <div n="14" type="objection">
+               <head>
+                  <hi>Object. XIV.</hi> The Mixture of ſeveral Religions is very apt to breed Scruples in Mens Souls, and to draw them into an Irreligious Life.</head>
+               <p>
+                  <hi>Anſw.</hi> I. It is by forcing people to profeſs againſt their Will, a Religion which they condemn in their Hearts, that they are thrown into an Irreligious Life, and 'tis from thence alſo that ariſes many doubtful Thoughts in the Minds of the Roman Catholicks
+<pb n="8" facs="tcp:153040:5" rendition="simple:additions"/>themſelves, who have any underſtanding, ſince People does by force prophane thoſe Myſteries, which they know to be contrary to the Spirit of Chriſtianity.</p>
+               <p n="2">II. There was ever wicked and ungodly People in the World, but we dare ſay, That the number of thoſe that Leads an Irreligious Life, hath always been very ſmall amongſt the French Proteſtants.</p>
+               <p n="3">III. The only means to put a ſtop to Prophaneneſs, is to preach the pure Doctrine of the Goſpel of Jeſus Chriſt.</p>
+               <p n="4">IV. Finally, If there were no Proteſtants in <hi>France,</hi> ſuch meaſures might be taken as would hinder their coming in from abroad; but when the King was raiſed to the Throne, he found in <hi>France,</hi> a great number of people eſtabliſhed there long before, who had in<g ref="char:EOLhyphen"/>violable Edicts and Treaties, which His Majeſty himſelf promiſed to protect and main<g ref="char:EOLhyphen"/>tain, who wrongs no Body who lives in the Fear of God, who ſerves him purely accord<g ref="char:EOLhyphen"/>ing to his Word, and who hath not made himſelf unworthy of the Love and protection of his Monarch, ſeeing he hath given him on the moſt important occaſions, ſignal proofs of his Fidelity.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A New and Exact Survey of the City of <hi>Barcelona,</hi> as it is now Inveſted by the <hi>French,</hi> curiouſly Engraven on a Cop<g ref="char:EOLhyphen"/>per Plate. Printed by <hi>J. Moxon</hi> at the <hi>Atlas</hi> in <hi>Warwick-Lane,</hi> and Sold by <hi>E. Whitlock</hi> near <hi>Stationers-Hall,</hi> Price 6 <hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
